@@ -4,6 +4,7 @@
 Uses node packages gltf-pipeline and imagemin-cli.
 
 Requires Node to be already installed.
+Only compresses textures that are in .jpg format.
 
 Usage:
 - clone repo
